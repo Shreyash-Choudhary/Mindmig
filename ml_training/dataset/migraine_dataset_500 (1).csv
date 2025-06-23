@@ -1,0 +1,501 @@
+Age,Gender,Sleep Hours,Water Intake,Skipped Meals,Caffeine,Stress,Screen Time,Physical Activity,Menstruating,Migraine,Migraine Onset Time,Known Trigger Today
+34,Male,8,5,Yes,3,5,10,None,Not Applicable,No,None,None
+28,Male,4,1,No,3,3,9,1–2 days/week,Not Applicable,No,None,None
+34,Male,4,5,Yes,2,2,3,3–5 days/week,Not Applicable,No,None,None
+20,Male,5,1,No,0,2,13,None,Not Applicable,No,None,None
+27,Female,9,2,Yes,2,3,7,1–2 days/week,No,Yes,Morning,"Skipping meals, Sudden weather change, Menstruation (if applicable)"
+19,Female,5,5,Yes,2,4,10,3–5 days/week,Yes,No,None,None
+28,Male,8,1,Yes,3,4,12,3–5 days/week,Not Applicable,No,None,None
+34,Female,5,2,Yes,3,3,11,3–5 days/week,No,Yes,Night,Stress or anxiety
+28,Male,4,1,Yes,2,4,7,3–5 days/week,Not Applicable,No,None,None
+19,Male,6,4,Yes,1,5,7,1–2 days/week,Not Applicable,No,None,None
+32,Female,9,2,Yes,2,5,4,Daily,Yes,No,None,None
+29,Female,5,4,No,2,3,14,Daily,No,Yes,Night,"Strong smells (perfume, smoke, etc.), Long screen time, Physical exertion"
+28,Male,7,3,No,3,3,12,Daily,Not Applicable,Yes,Night,"Loud noise, Physical exertion"
+18,Female,5,2,Yes,0,2,5,Daily,Yes,No,None,None
+25,Female,5,3,Yes,3,1,7,Daily,Yes,Yes,Night,"Menstruation (if applicable), Loud noise, Stress or anxiety"
+30,Female,6,1,No,1,5,12,1–2 days/week,Yes,No,None,None
+30,Female,4,1,No,3,2,9,1–2 days/week,Yes,No,None,None
+18,Male,9,3,Yes,0,5,8,3–5 days/week,Not Applicable,Yes,None,Skipping meals
+27,Male,7,4,No,3,4,10,None,Not Applicable,Yes,Morning,"Incorrect posture, Strong smells (perfume, smoke, etc.)"
+34,Female,7,3,Yes,2,4,5,None,No,Yes,Afternoon,"Strong smells (perfume, smoke, etc.), Incorrect posture, Dehydration"
+31,Female,7,5,Yes,1,1,11,3–5 days/week,No,No,None,None
+19,Female,4,5,No,2,3,12,Daily,No,Yes,Morning,"Caffeine withdrawal, Alcohol"
+34,Male,5,1,No,0,2,10,None,Not Applicable,No,None,None
+26,Female,8,1,Yes,3,4,11,3–5 days/week,Yes,No,None,None
+31,Female,4,4,No,0,4,10,3–5 days/week,Yes,No,None,None
+21,Male,8,2,Yes,1,3,8,1–2 days/week,Not Applicable,No,None,None
+35,Female,7,3,No,2,1,14,None,No,No,None,None
+26,Female,9,5,No,2,2,11,3–5 days/week,Yes,No,None,None
+18,Male,5,5,Yes,1,5,5,Daily,Not Applicable,No,None,None
+31,Female,9,3,Yes,1,2,6,3–5 days/week,Yes,No,None,None
+20,Male,5,2,Yes,0,4,3,1–2 days/week,Not Applicable,No,None,None
+23,Female,4,5,No,0,4,12,1–2 days/week,No,No,None,None
+32,Female,8,4,Yes,3,2,10,3–5 days/week,No,Yes,Morning,Stress or anxiety
+28,Female,8,2,No,3,2,7,Daily,No,Yes,Morning,"Incorrect posture, Strong smells (perfume, smoke, etc.)"
+31,Male,4,1,No,2,2,9,Daily,Not Applicable,No,None,None
+27,Male,7,5,Yes,3,2,8,3–5 days/week,Not Applicable,No,None,None
+18,Female,6,3,No,2,5,9,3–5 days/week,Yes,No,None,None
+20,Male,6,3,Yes,3,2,13,3–5 days/week,Not Applicable,Yes,Afternoon,Menstruation (if applicable)
+19,Male,4,3,No,0,5,7,1–2 days/week,Not Applicable,No,None,None
+24,Male,4,5,No,3,1,5,1–2 days/week,Not Applicable,No,None,None
+18,Male,5,4,Yes,2,4,4,1–2 days/week,Not Applicable,No,None,None
+26,Male,6,2,No,1,2,5,1–2 days/week,Not Applicable,No,None,None
+23,Male,7,2,Yes,3,1,3,None,Not Applicable,Yes,Morning,"Eye strain, Lack of sleep, Bright or flashing lights"
+21,Male,6,1,Yes,2,5,10,3–5 days/week,Not Applicable,Yes,Morning,"Incorrect posture, Physical exertion, Skipping meals"
+32,Female,4,2,Yes,0,1,6,3–5 days/week,No,No,None,None
+31,Male,7,3,No,1,3,14,Daily,Not Applicable,No,None,None
+28,Female,4,3,Yes,2,1,6,3–5 days/week,No,No,None,None
+19,Male,6,4,No,0,4,8,1–2 days/week,Not Applicable,No,None,None
+25,Male,7,3,Yes,0,1,13,None,Not Applicable,No,None,None
+31,Male,7,2,No,1,1,5,None,Not Applicable,No,None,None
+29,Female,6,4,Yes,0,5,3,None,No,No,None,None
+23,Female,4,1,No,2,5,3,Daily,Yes,Yes,Morning,"Physical exertion, Strong smells (perfume, smoke, etc.)"
+28,Male,6,3,Yes,2,4,4,3–5 days/week,Not Applicable,No,None,None
+31,Male,8,1,Yes,2,2,7,Daily,Not Applicable,No,None,None
+25,Female,6,5,Yes,3,1,14,None,No,Yes,None,"Sudden weather change, Stress or anxiety, Eye strain"
+18,Male,9,1,No,3,4,14,None,Not Applicable,Yes,Afternoon,"Long screen time, Dehydration"
+30,Female,7,4,Yes,2,4,6,3–5 days/week,Yes,No,None,None
+20,Male,4,1,Yes,0,1,3,None,Not Applicable,No,None,None
+22,Male,5,3,Yes,2,4,4,3–5 days/week,Not Applicable,No,None,None
+26,Female,5,3,No,2,5,5,None,Yes,No,None,None
+31,Male,6,2,Yes,2,5,12,None,Not Applicable,No,None,None
+18,Male,5,1,Yes,0,1,11,None,Not Applicable,No,None,None
+20,Female,9,3,Yes,2,3,4,None,No,No,None,None
+18,Female,7,2,Yes,2,2,12,3–5 days/week,No,No,None,None
+30,Male,6,3,No,0,5,6,Daily,Not Applicable,Yes,None,"Strong smells (perfume, smoke, etc.), Long screen time, Menstruation (if applicable)"
+28,Female,9,1,Yes,0,2,4,None,No,Yes,None,"Alcohol, Loud noise, Lack of sleep"
+27,Male,8,3,Yes,1,4,2,Daily,Not Applicable,Yes,None,"Lack of sleep, Skipping meals, Bright or flashing lights"
+29,Female,9,4,No,3,3,4,3–5 days/week,No,No,None,None
+23,Female,9,4,Yes,3,3,11,Daily,Yes,No,None,None
+30,Female,9,1,Yes,3,1,7,3–5 days/week,Yes,No,None,None
+21,Male,6,5,No,2,3,7,Daily,Not Applicable,Yes,Night,Sudden weather change
+18,Male,8,2,Yes,2,3,5,3–5 days/week,Not Applicable,Yes,Night,"Bright or flashing lights, Long screen time"
+23,Male,4,4,Yes,3,3,9,1–2 days/week,Not Applicable,No,None,None
+34,Female,4,2,No,0,5,3,1–2 days/week,Yes,No,None,None
+35,Male,5,5,No,1,4,2,1–2 days/week,Not Applicable,No,None,None
+18,Male,6,4,No,2,2,4,Daily,Not Applicable,No,None,None
+20,Female,6,1,Yes,1,3,5,1–2 days/week,No,No,None,None
+19,Male,9,5,No,2,4,7,1–2 days/week,Not Applicable,Yes,Night,"Long screen time, Alcohol, Loud noise"
+29,Female,9,3,Yes,2,4,7,None,No,No,None,None
+25,Male,5,3,No,3,3,13,1–2 days/week,Not Applicable,No,None,None
+21,Female,8,5,Yes,0,4,3,3–5 days/week,No,No,None,None
+32,Female,6,3,No,1,2,8,None,Yes,No,None,None
+30,Male,9,4,Yes,3,1,3,3–5 days/week,Not Applicable,No,None,None
+27,Male,4,1,No,0,2,5,Daily,Not Applicable,No,None,None
+25,Female,5,3,Yes,3,3,4,Daily,No,No,None,None
+23,Male,4,1,Yes,3,2,5,Daily,Not Applicable,No,None,None
+19,Female,8,1,Yes,3,3,2,1–2 days/week,Yes,No,None,None
+23,Male,5,2,Yes,2,4,2,3–5 days/week,Not Applicable,No,None,None
+27,Male,6,3,Yes,3,1,2,None,Not Applicable,Yes,Morning,Sudden weather change
+34,Male,6,3,Yes,3,1,13,3–5 days/week,Not Applicable,No,None,None
+26,Female,4,2,No,3,3,11,3–5 days/week,No,Yes,Morning,Caffeine withdrawal
+27,Female,4,5,Yes,1,5,11,3–5 days/week,Yes,Yes,None,Eye strain
+30,Male,5,3,Yes,1,3,8,1–2 days/week,Not Applicable,Yes,None,Menstruation (if applicable)
+27,Male,8,4,No,2,3,6,Daily,Not Applicable,Yes,Afternoon,"Menstruation (if applicable), Lack of sleep"
+28,Male,9,1,No,0,2,8,None,Not Applicable,Yes,Afternoon,"Alcohol, Menstruation (if applicable)"
+32,Male,6,2,Yes,1,1,9,Daily,Not Applicable,No,None,None
+34,Female,9,2,Yes,2,2,8,3–5 days/week,Yes,Yes,Afternoon,"Loud noise, Caffeine withdrawal, Sudden weather change"
+26,Female,9,4,No,1,2,3,None,Yes,No,None,None
+32,Female,8,4,No,0,3,2,Daily,Yes,No,None,None
+34,Female,4,3,No,1,4,6,3–5 days/week,Yes,No,None,None
+31,Female,5,5,Yes,1,3,4,3–5 days/week,Yes,No,None,None
+32,Male,4,2,Yes,0,5,13,Daily,Not Applicable,Yes,None,"Sudden weather change, Bright or flashing lights"
+22,Male,6,3,Yes,3,4,10,3–5 days/week,Not Applicable,Yes,Night,"Alcohol, Strong smells (perfume, smoke, etc.), Loud noise"
+20,Female,7,1,No,1,5,7,3–5 days/week,No,No,None,None
+20,Male,7,5,Yes,0,2,9,None,Not Applicable,Yes,Afternoon,"Long screen time, Alcohol, Sudden weather change"
+28,Male,7,3,Yes,0,3,13,1–2 days/week,Not Applicable,Yes,None,"Stress or anxiety, Skipping meals"
+25,Male,5,4,Yes,0,2,10,3–5 days/week,Not Applicable,Yes,None,Stress or anxiety
+19,Male,7,3,No,0,5,6,Daily,Not Applicable,No,None,None
+26,Female,6,1,Yes,0,5,14,None,No,Yes,Night,Sudden weather change
+21,Female,4,1,Yes,3,4,6,None,Yes,No,None,None
+24,Female,9,2,No,1,4,4,1–2 days/week,Yes,No,None,None
+21,Male,7,1,Yes,2,1,6,1–2 days/week,Not Applicable,Yes,Morning,Caffeine withdrawal
+33,Male,8,1,Yes,2,3,6,Daily,Not Applicable,No,None,None
+28,Male,4,4,Yes,3,2,2,1–2 days/week,Not Applicable,No,None,None
+26,Male,6,5,Yes,3,2,12,None,Not Applicable,No,None,None
+21,Male,8,4,No,3,4,13,None,Not Applicable,Yes,None,"Menstruation (if applicable), Strong smells (perfume, smoke, etc.)"
+29,Female,6,2,No,1,4,8,3–5 days/week,Yes,Yes,Afternoon,"Long screen time, Alcohol"
+28,Female,8,4,Yes,0,4,11,None,Yes,Yes,Afternoon,"Loud noise, Stress or anxiety, Eye strain"
+34,Female,6,4,No,2,3,6,None,No,Yes,None,Physical exertion
+28,Male,4,1,No,3,4,5,3–5 days/week,Not Applicable,No,None,None
+26,Female,6,1,Yes,2,4,2,1–2 days/week,Yes,No,None,None
+32,Male,6,5,Yes,1,1,14,None,Not Applicable,Yes,Night,"Alcohol, Loud noise, Caffeine withdrawal"
+32,Male,4,4,No,0,1,12,1–2 days/week,Not Applicable,Yes,Night,Stress or anxiety
+22,Male,6,3,No,3,1,10,3–5 days/week,Not Applicable,No,None,None
+19,Male,7,2,Yes,2,5,14,None,Not Applicable,No,None,None
+18,Female,8,1,Yes,2,4,12,Daily,Yes,Yes,Night,Caffeine withdrawal
+27,Male,8,3,Yes,1,3,10,1–2 days/week,Not Applicable,Yes,Morning,Stress or anxiety
+27,Male,5,2,Yes,2,5,13,Daily,Not Applicable,No,None,None
+28,Male,4,5,Yes,1,4,4,3–5 days/week,Not Applicable,Yes,None,"Sudden weather change, Strong smells (perfume, smoke, etc.)"
+22,Male,6,1,No,3,2,3,1–2 days/week,Not Applicable,Yes,Morning,Menstruation (if applicable)
+18,Male,6,4,No,3,5,7,1–2 days/week,Not Applicable,Yes,Morning,"Menstruation (if applicable), Lack of sleep"
+22,Male,9,1,Yes,1,3,11,Daily,Not Applicable,Yes,Night,"Bright or flashing lights, Caffeine withdrawal, Sudden weather change"
+25,Male,8,3,No,0,2,6,Daily,Not Applicable,No,None,None
+34,Female,5,5,Yes,0,4,2,3–5 days/week,Yes,No,None,None
+21,Male,9,5,Yes,0,1,7,3–5 days/week,Not Applicable,No,None,None
+19,Male,5,1,Yes,1,1,12,None,Not Applicable,No,None,None
+30,Male,4,2,No,3,3,13,None,Not Applicable,No,None,None
+30,Male,8,5,No,2,3,10,3–5 days/week,Not Applicable,No,None,None
+32,Male,9,2,Yes,0,3,9,1–2 days/week,Not Applicable,No,None,None
+27,Male,5,1,Yes,1,5,4,None,Not Applicable,No,None,None
+25,Male,9,3,Yes,0,2,7,None,Not Applicable,No,None,None
+25,Female,8,3,Yes,2,1,10,1–2 days/week,No,No,None,None
+32,Male,7,3,No,0,1,6,1–2 days/week,Not Applicable,No,None,None
+19,Female,9,1,No,1,1,13,Daily,No,No,None,None
+27,Female,9,5,No,0,4,12,1–2 days/week,No,Yes,None,"Eye strain, Skipping meals"
+18,Female,8,1,No,2,1,7,None,Yes,Yes,Morning,"Stress or anxiety, Strong smells (perfume, smoke, etc.), Caffeine withdrawal"
+31,Female,7,2,No,3,4,6,Daily,No,No,None,None
+22,Male,8,5,Yes,3,4,7,Daily,Not Applicable,Yes,Afternoon,"Dehydration, Incorrect posture"
+34,Female,5,5,Yes,0,2,8,None,Yes,No,None,None
+24,Female,9,5,No,1,1,10,3–5 days/week,No,No,None,None
+30,Male,8,1,No,1,4,5,None,Not Applicable,Yes,None,Lack of sleep
+35,Female,7,2,Yes,2,2,3,3–5 days/week,Yes,No,None,None
+27,Female,6,5,No,2,2,8,None,Yes,No,None,None
+28,Male,5,5,Yes,0,1,12,None,Not Applicable,No,None,None
+30,Male,4,1,Yes,2,3,3,None,Not Applicable,No,None,None
+23,Female,5,5,Yes,1,3,3,Daily,No,No,None,None
+22,Female,8,1,No,2,3,9,None,No,No,None,None
+23,Male,9,3,Yes,3,2,8,None,Not Applicable,No,None,None
+34,Female,5,3,No,1,4,6,None,Yes,Yes,Morning,Loud noise
+20,Female,9,5,Yes,2,4,8,3–5 days/week,No,Yes,None,"Dehydration, Alcohol, Sudden weather change"
+31,Female,5,3,No,1,2,11,1–2 days/week,No,No,None,None
+24,Male,6,2,Yes,0,5,3,Daily,Not Applicable,No,None,None
+33,Female,5,2,Yes,0,1,11,None,No,No,None,None
+27,Male,6,4,No,0,3,6,3–5 days/week,Not Applicable,Yes,Night,Bright or flashing lights
+24,Male,9,4,No,2,4,6,3–5 days/week,Not Applicable,Yes,None,"Menstruation (if applicable), Strong smells (perfume, smoke, etc.)"
+31,Female,6,2,Yes,0,4,7,Daily,No,No,None,None
+29,Male,8,3,No,1,3,8,Daily,Not Applicable,Yes,Morning,"Incorrect posture, Menstruation (if applicable)"
+25,Male,4,3,No,2,5,4,Daily,Not Applicable,No,None,None
+19,Female,9,5,No,1,1,2,3–5 days/week,Yes,No,None,None
+31,Male,8,5,Yes,1,2,7,Daily,Not Applicable,No,None,None
+27,Female,9,5,No,1,4,12,1–2 days/week,Yes,Yes,Morning,"Sudden weather change, Long screen time, Dehydration"
+25,Female,8,5,Yes,3,1,6,Daily,No,Yes,Morning,"Long screen time, Bright or flashing lights"
+18,Female,7,1,No,2,2,9,None,Yes,No,None,None
+27,Female,8,4,Yes,1,4,11,1–2 days/week,Yes,No,None,None
+34,Male,9,3,No,3,4,14,None,Not Applicable,No,None,None
+23,Female,7,3,No,3,5,14,3–5 days/week,Yes,No,None,None
+34,Male,5,2,Yes,0,2,13,3–5 days/week,Not Applicable,No,None,None
+23,Female,8,2,Yes,1,1,6,3–5 days/week,No,Yes,Night,"Lack of sleep, Stress or anxiety, Bright or flashing lights"
+30,Female,5,4,Yes,3,2,2,1–2 days/week,No,Yes,Night,"Sudden weather change, Strong smells (perfume, smoke, etc.)"
+22,Male,8,5,No,3,2,4,1–2 days/week,Not Applicable,No,None,None
+20,Male,9,2,Yes,3,5,10,1–2 days/week,Not Applicable,No,None,None
+22,Female,5,2,No,2,5,5,None,No,Yes,Morning,"Sudden weather change, Stress or anxiety, Bright or flashing lights"
+19,Female,4,1,Yes,2,3,6,3–5 days/week,No,No,None,None
+23,Male,7,3,Yes,3,4,3,Daily,Not Applicable,No,None,None
+22,Female,5,2,Yes,0,5,3,3–5 days/week,Yes,Yes,Morning,Menstruation (if applicable)
+24,Male,7,3,No,3,1,10,1–2 days/week,Not Applicable,No,None,None
+20,Male,4,3,Yes,0,2,5,1–2 days/week,Not Applicable,No,None,None
+35,Female,4,1,Yes,2,5,14,1–2 days/week,Yes,No,None,None
+31,Male,8,2,Yes,1,1,13,Daily,Not Applicable,No,None,None
+25,Female,9,2,Yes,3,3,11,1–2 days/week,Yes,No,None,None
+33,Male,4,2,No,0,2,3,3–5 days/week,Not Applicable,No,None,None
+35,Male,8,4,No,1,4,9,None,Not Applicable,No,None,None
+18,Male,7,1,No,3,5,7,1–2 days/week,Not Applicable,Yes,Afternoon,"Lack of sleep, Caffeine withdrawal, Sudden weather change"
+34,Female,5,1,Yes,2,5,6,None,Yes,Yes,Morning,"Stress or anxiety, Eye strain, Loud noise"
+26,Female,8,2,No,2,5,8,3–5 days/week,Yes,No,None,None
+19,Female,8,4,Yes,0,2,3,None,No,No,None,None
+27,Female,8,1,Yes,0,3,3,None,Yes,Yes,Morning,Loud noise
+27,Male,8,3,No,3,1,4,Daily,Not Applicable,No,None,None
+31,Male,6,5,No,3,5,9,1–2 days/week,Not Applicable,Yes,None,Stress or anxiety
+32,Male,8,3,No,1,3,13,None,Not Applicable,Yes,Afternoon,"Alcohol, Stress or anxiety"
+35,Male,9,4,Yes,2,4,9,Daily,Not Applicable,No,None,None
+24,Male,6,3,Yes,2,4,10,Daily,Not Applicable,Yes,Morning,"Eye strain, Incorrect posture, Sudden weather change"
+18,Male,8,1,No,1,2,11,3–5 days/week,Not Applicable,Yes,None,Lack of sleep
+30,Male,6,3,Yes,2,3,14,1–2 days/week,Not Applicable,No,None,None
+25,Female,4,1,Yes,0,1,4,None,No,No,None,None
+35,Female,6,4,No,0,4,14,None,No,No,None,None
+25,Male,9,4,Yes,3,4,12,None,Not Applicable,No,None,None
+28,Female,7,2,No,3,5,11,Daily,No,No,None,None
+27,Male,7,4,No,1,5,7,Daily,Not Applicable,Yes,Morning,"Stress or anxiety, Caffeine withdrawal, Loud noise"
+18,Female,9,4,No,0,3,4,Daily,No,No,None,None
+27,Female,8,5,Yes,1,5,10,None,Yes,No,None,None
+24,Female,8,5,Yes,3,3,12,3–5 days/week,No,No,None,None
+33,Female,4,3,Yes,2,1,12,None,Yes,No,None,None
+29,Male,9,4,No,0,1,6,3–5 days/week,Not Applicable,Yes,None,Skipping meals
+19,Female,5,3,No,1,4,14,1–2 days/week,No,No,None,None
+30,Female,9,3,No,0,4,9,None,Yes,No,None,None
+31,Female,6,3,No,0,2,3,None,No,Yes,Night,"Eye strain, Dehydration, Lack of sleep"
+22,Female,5,5,Yes,0,4,4,Daily,Yes,Yes,Night,"Incorrect posture, Loud noise, Strong smells (perfume, smoke, etc.)"
+27,Male,7,3,Yes,0,2,8,Daily,Not Applicable,Yes,None,"Dehydration, Strong smells (perfume, smoke, etc.)"
+33,Female,5,5,Yes,0,1,11,Daily,Yes,Yes,Night,"Lack of sleep, Bright or flashing lights"
+23,Male,8,3,Yes,2,2,8,3–5 days/week,Not Applicable,No,None,None
+28,Male,7,1,Yes,0,2,10,None,Not Applicable,No,None,None
+27,Female,9,1,Yes,2,2,7,Daily,Yes,No,None,None
+24,Male,8,4,No,0,4,3,1–2 days/week,Not Applicable,No,None,None
+21,Male,6,4,Yes,3,5,3,None,Not Applicable,Yes,Morning,Loud noise
+20,Female,4,1,Yes,3,4,6,1–2 days/week,No,Yes,Night,"Bright or flashing lights, Lack of sleep"
+27,Female,6,1,No,2,3,6,1–2 days/week,Yes,No,None,None
+35,Female,9,1,Yes,0,3,7,Daily,No,No,None,None
+23,Female,5,4,Yes,0,3,13,3–5 days/week,No,No,None,None
+31,Male,4,3,No,2,4,11,3–5 days/week,Not Applicable,Yes,Night,"Loud noise, Dehydration"
+25,Male,7,3,Yes,3,5,14,Daily,Not Applicable,No,None,None
+21,Male,6,2,Yes,0,3,12,3–5 days/week,Not Applicable,Yes,Afternoon,Menstruation (if applicable)
+22,Male,6,4,No,0,2,4,3–5 days/week,Not Applicable,Yes,Night,"Long screen time, Sudden weather change, Physical exertion"
+31,Female,5,2,No,1,1,2,Daily,No,Yes,Afternoon,"Skipping meals, Eye strain, Loud noise"
+33,Male,8,5,No,0,4,2,1–2 days/week,Not Applicable,No,None,None
+30,Female,7,4,No,0,5,13,1–2 days/week,No,No,None,None
+29,Female,9,4,Yes,0,5,2,Daily,No,Yes,Morning,"Skipping meals, Sudden weather change, Alcohol"
+32,Male,9,2,Yes,2,4,7,3–5 days/week,Not Applicable,No,None,None
+28,Male,8,4,Yes,0,5,8,1–2 days/week,Not Applicable,No,None,None
+18,Female,6,2,Yes,1,1,6,None,No,No,None,None
+21,Male,8,4,Yes,0,4,3,3–5 days/week,Not Applicable,No,None,None
+31,Male,7,1,No,2,3,3,Daily,Not Applicable,Yes,Morning,Incorrect posture
+27,Male,9,5,Yes,3,1,11,3–5 days/week,Not Applicable,Yes,Afternoon,"Stress or anxiety, Sudden weather change, Strong smells (perfume, smoke, etc.)"
+32,Female,9,1,No,3,4,6,Daily,No,No,None,None
+25,Male,9,4,Yes,3,3,10,None,Not Applicable,Yes,Morning,"Loud noise, Strong smells (perfume, smoke, etc.)"
+30,Male,5,4,Yes,0,5,13,Daily,Not Applicable,No,None,None
+34,Female,9,3,No,1,5,3,None,Yes,Yes,Afternoon,"Long screen time, Caffeine withdrawal, Sudden weather change"
+31,Male,4,1,Yes,3,3,6,1–2 days/week,Not Applicable,No,None,None
+29,Male,5,4,No,0,5,3,None,Not Applicable,No,None,None
+21,Female,6,5,No,2,1,10,Daily,No,No,None,None
+18,Female,6,3,Yes,2,5,13,3–5 days/week,No,No,None,None
+21,Female,8,3,Yes,3,4,3,3–5 days/week,No,No,None,None
+33,Male,7,2,Yes,0,1,3,3–5 days/week,Not Applicable,No,None,None
+32,Male,8,1,Yes,1,1,7,3–5 days/week,Not Applicable,No,None,None
+20,Male,5,2,Yes,0,3,9,Daily,Not Applicable,Yes,Night,"Strong smells (perfume, smoke, etc.), Long screen time"
+27,Male,8,2,Yes,2,3,2,None,Not Applicable,No,None,None
+31,Male,9,3,No,3,5,12,Daily,Not Applicable,No,None,None
+20,Male,4,5,No,0,5,5,None,Not Applicable,Yes,Morning,"Eye strain, Strong smells (perfume, smoke, etc.), Sudden weather change"
+26,Female,7,4,No,3,5,2,1–2 days/week,No,No,None,None
+32,Male,7,5,No,2,1,5,3–5 days/week,Not Applicable,Yes,Night,"Long screen time, Strong smells (perfume, smoke, etc.)"
+34,Female,4,5,Yes,0,1,4,None,No,No,None,None
+33,Female,8,1,No,1,2,6,Daily,No,Yes,Afternoon,"Lack of sleep, Long screen time, Stress or anxiety"
+26,Male,5,5,Yes,3,1,14,1–2 days/week,Not Applicable,No,None,None
+25,Male,6,5,Yes,2,3,6,3–5 days/week,Not Applicable,No,None,None
+20,Male,8,3,Yes,3,2,3,None,Not Applicable,Yes,Night,"Alcohol, Sudden weather change, Bright or flashing lights"
+21,Male,8,3,No,2,3,13,None,Not Applicable,Yes,Night,"Alcohol, Eye strain"
+29,Male,5,4,Yes,2,4,11,None,Not Applicable,Yes,Morning,"Strong smells (perfume, smoke, etc.)"
+27,Male,5,2,No,0,4,12,3–5 days/week,Not Applicable,Yes,Afternoon,"Loud noise, Physical exertion"
+22,Female,4,5,No,2,1,4,Daily,No,No,None,None
+18,Male,5,5,No,0,4,14,None,Not Applicable,Yes,Night,Physical exertion
+33,Female,4,3,Yes,0,4,7,1–2 days/week,No,Yes,Afternoon,Skipping meals
+27,Male,5,1,No,0,5,3,1–2 days/week,Not Applicable,Yes,Afternoon,"Menstruation (if applicable), Skipping meals"
+24,Female,5,5,Yes,0,3,13,3–5 days/week,No,No,None,None
+20,Female,7,1,Yes,2,3,7,3–5 days/week,No,No,None,None
+29,Male,9,3,Yes,2,3,9,Daily,Not Applicable,Yes,Morning,"Incorrect posture, Stress or anxiety, Sudden weather change"
+27,Female,8,5,No,1,5,7,3–5 days/week,Yes,No,None,None
+26,Male,8,4,No,3,5,13,None,Not Applicable,No,None,None
+18,Female,6,2,Yes,2,4,12,None,No,No,None,None
+35,Male,7,3,No,1,3,10,Daily,Not Applicable,Yes,None,"Incorrect posture, Long screen time"
+29,Female,4,1,No,0,4,4,1–2 days/week,No,No,None,None
+35,Female,9,4,Yes,3,1,11,1–2 days/week,No,No,None,None
+27,Female,8,4,Yes,1,2,3,3–5 days/week,No,Yes,Afternoon,"Strong smells (perfume, smoke, etc.)"
+28,Female,8,3,No,0,2,8,None,Yes,Yes,Morning,"Stress or anxiety, Dehydration"
+29,Male,9,3,Yes,2,1,6,1–2 days/week,Not Applicable,Yes,Night,"Incorrect posture, Menstruation (if applicable), Eye strain"
+30,Male,7,3,No,0,1,12,1–2 days/week,Not Applicable,No,None,None
+35,Male,5,4,No,3,2,13,3–5 days/week,Not Applicable,No,None,None
+31,Female,5,3,No,2,4,13,Daily,Yes,Yes,None,"Sudden weather change, Skipping meals, Loud noise"
+21,Male,5,5,No,3,3,13,Daily,Not Applicable,Yes,Morning,"Lack of sleep, Dehydration"
+30,Male,4,3,Yes,1,2,2,Daily,Not Applicable,Yes,Morning,"Caffeine withdrawal, Alcohol, Physical exertion"
+30,Female,7,4,No,1,3,4,Daily,Yes,No,None,None
+33,Male,9,2,Yes,3,2,10,Daily,Not Applicable,No,None,None
+25,Male,8,4,Yes,3,3,14,1–2 days/week,Not Applicable,No,None,None
+21,Male,9,4,Yes,3,3,8,Daily,Not Applicable,No,None,None
+23,Male,6,5,Yes,2,2,11,1–2 days/week,Not Applicable,No,None,None
+28,Male,7,2,Yes,2,4,10,1–2 days/week,Not Applicable,No,None,None
+24,Male,8,3,No,3,3,14,None,Not Applicable,Yes,None,Eye strain
+26,Male,4,1,Yes,1,1,6,Daily,Not Applicable,No,None,None
+21,Male,5,3,Yes,1,1,11,None,Not Applicable,Yes,Afternoon,"Lack of sleep, Loud noise"
+23,Female,8,3,No,3,5,9,None,Yes,No,None,None
+27,Female,6,1,Yes,2,2,2,3–5 days/week,No,Yes,Night,"Eye strain, Skipping meals"
+34,Male,6,1,Yes,3,1,13,1–2 days/week,Not Applicable,Yes,Morning,Dehydration
+33,Female,8,1,No,1,2,2,Daily,Yes,No,None,None
+22,Female,8,1,No,3,1,4,1–2 days/week,Yes,No,None,None
+21,Female,7,2,Yes,0,5,14,None,No,Yes,Afternoon,Caffeine withdrawal
+33,Female,6,2,No,0,1,3,Daily,Yes,No,None,None
+32,Female,9,2,No,1,4,5,None,Yes,No,None,None
+19,Male,8,2,Yes,2,2,14,Daily,Not Applicable,Yes,None,"Sudden weather change, Menstruation (if applicable)"
+28,Male,9,4,No,2,4,14,Daily,Not Applicable,No,None,None
+29,Female,8,5,Yes,0,2,13,1–2 days/week,No,Yes,Afternoon,"Long screen time, Bright or flashing lights"
+27,Female,6,5,No,2,3,11,3–5 days/week,Yes,No,None,None
+31,Female,6,4,No,3,5,10,3–5 days/week,Yes,No,None,None
+26,Male,4,1,No,0,4,5,3–5 days/week,Not Applicable,Yes,Night,Alcohol
+25,Female,7,4,Yes,0,3,13,Daily,No,No,None,None
+21,Male,8,2,No,0,2,9,Daily,Not Applicable,No,None,None
+30,Female,9,2,Yes,0,5,9,1–2 days/week,No,No,None,None
+22,Female,7,5,No,3,1,14,1–2 days/week,No,No,None,None
+27,Female,8,2,No,3,5,10,3–5 days/week,No,Yes,Night,Dehydration
+19,Male,6,2,Yes,1,3,6,1–2 days/week,Not Applicable,Yes,Night,Bright or flashing lights
+32,Male,4,4,Yes,3,3,8,None,Not Applicable,Yes,None,"Lack of sleep, Strong smells (perfume, smoke, etc.), Alcohol"
+29,Female,7,5,Yes,2,2,4,3–5 days/week,Yes,Yes,Morning,Alcohol
+34,Male,5,2,No,1,1,7,Daily,Not Applicable,No,None,None
+23,Female,5,4,Yes,2,3,12,None,No,No,None,None
+20,Male,4,1,No,3,2,7,1–2 days/week,Not Applicable,Yes,None,"Incorrect posture, Physical exertion, Dehydration"
+34,Female,8,3,Yes,0,3,4,None,No,Yes,Afternoon,"Stress or anxiety, Strong smells (perfume, smoke, etc.)"
+23,Male,9,5,Yes,0,3,2,Daily,Not Applicable,No,None,None
+19,Female,6,5,Yes,1,3,14,None,No,Yes,Night,"Menstruation (if applicable), Physical exertion, Dehydration"
+30,Female,7,1,Yes,1,3,7,3–5 days/week,Yes,Yes,None,"Eye strain, Incorrect posture"
+35,Female,6,5,No,3,3,3,None,Yes,No,None,None
+19,Male,6,1,No,2,5,5,1–2 days/week,Not Applicable,No,None,None
+23,Female,9,2,No,3,1,5,Daily,Yes,Yes,None,Menstruation (if applicable)
+27,Male,4,3,Yes,2,2,13,3–5 days/week,Not Applicable,No,None,None
+18,Female,9,4,No,3,3,7,3–5 days/week,Yes,No,None,None
+29,Male,7,4,Yes,1,2,14,None,Not Applicable,No,None,None
+18,Female,9,1,Yes,3,3,14,None,No,No,None,None
+24,Male,5,5,No,0,1,3,None,Not Applicable,No,None,None
+25,Male,6,5,No,3,1,11,1–2 days/week,Not Applicable,Yes,None,"Eye strain, Caffeine withdrawal, Dehydration"
+19,Male,9,1,No,3,1,8,1–2 days/week,Not Applicable,No,None,None
+30,Female,7,5,No,3,1,3,1–2 days/week,No,Yes,Afternoon,"Sudden weather change, Skipping meals, Alcohol"
+23,Male,4,3,No,3,2,14,3–5 days/week,Not Applicable,No,None,None
+32,Female,9,1,No,3,5,2,1–2 days/week,No,No,None,None
+25,Male,6,3,No,1,1,3,1–2 days/week,Not Applicable,Yes,Morning,"Menstruation (if applicable), Incorrect posture, Dehydration"
+27,Male,5,4,No,2,1,9,None,Not Applicable,No,None,None
+33,Male,5,4,Yes,2,3,11,None,Not Applicable,No,None,None
+24,Female,7,1,Yes,2,5,14,None,No,No,None,None
+20,Female,6,3,Yes,3,3,8,3–5 days/week,No,No,None,None
+19,Female,7,3,No,3,3,13,1–2 days/week,Yes,Yes,Morning,Incorrect posture
+28,Male,4,2,No,3,5,6,1–2 days/week,Not Applicable,No,None,None
+22,Male,4,5,Yes,3,5,6,Daily,Not Applicable,No,None,None
+20,Female,6,1,Yes,2,4,11,3–5 days/week,Yes,No,None,None
+34,Female,7,4,No,2,2,7,3–5 days/week,No,No,None,None
+25,Female,7,3,No,1,3,2,1–2 days/week,No,Yes,None,Caffeine withdrawal
+31,Male,5,1,No,3,4,6,3–5 days/week,Not Applicable,Yes,Morning,Menstruation (if applicable)
+20,Female,8,3,Yes,0,2,11,1–2 days/week,No,No,None,None
+27,Male,6,3,Yes,0,4,13,1–2 days/week,Not Applicable,No,None,None
+30,Female,4,3,Yes,1,1,8,1–2 days/week,Yes,No,None,None
+21,Female,5,4,No,3,4,6,Daily,Yes,No,None,None
+25,Male,7,4,Yes,1,2,8,1–2 days/week,Not Applicable,No,None,None
+30,Female,5,4,Yes,2,4,5,1–2 days/week,No,No,None,None
+28,Male,4,2,Yes,2,4,12,1–2 days/week,Not Applicable,Yes,Morning,"Long screen time, Loud noise"
+30,Female,4,2,Yes,3,1,7,Daily,Yes,No,None,None
+21,Male,7,3,Yes,1,2,5,Daily,Not Applicable,No,None,None
+33,Female,9,3,Yes,1,2,10,None,No,No,None,None
+31,Female,4,1,No,1,2,14,None,No,No,None,None
+23,Male,9,4,No,1,4,2,Daily,Not Applicable,Yes,Morning,"Loud noise, Alcohol, Dehydration"
+22,Male,9,2,Yes,3,4,8,1–2 days/week,Not Applicable,No,None,None
+28,Female,9,2,No,0,3,13,1–2 days/week,No,Yes,Night,Incorrect posture
+22,Female,6,1,Yes,2,4,12,1–2 days/week,Yes,Yes,None,"Loud noise, Incorrect posture, Alcohol"
+33,Male,7,3,Yes,3,3,11,None,Not Applicable,No,None,None
+28,Female,9,3,No,0,3,6,1–2 days/week,No,No,None,None
+30,Male,8,1,Yes,3,4,14,None,Not Applicable,Yes,None,"Sudden weather change, Incorrect posture, Eye strain"
+20,Female,9,1,Yes,3,5,7,1–2 days/week,No,No,None,None
+22,Male,8,4,Yes,1,4,3,3–5 days/week,Not Applicable,Yes,Afternoon,"Strong smells (perfume, smoke, etc.), Caffeine withdrawal, Dehydration"
+33,Female,6,5,No,3,4,9,3–5 days/week,Yes,Yes,Night,"Long screen time, Eye strain, Skipping meals"
+23,Male,6,5,Yes,0,2,8,None,Not Applicable,Yes,None,"Lack of sleep, Loud noise"
+30,Female,6,1,Yes,2,2,10,1–2 days/week,No,No,None,None
+22,Female,8,4,Yes,0,1,12,3–5 days/week,Yes,No,None,None
+34,Female,7,3,No,3,4,10,Daily,Yes,Yes,None,"Dehydration, Physical exertion"
+29,Female,9,3,No,1,5,8,Daily,No,No,None,None
+25,Male,9,1,Yes,2,1,11,1–2 days/week,Not Applicable,Yes,Morning,"Strong smells (perfume, smoke, etc.)"
+28,Male,6,5,No,1,4,8,None,Not Applicable,No,None,None
+23,Male,9,1,No,0,4,6,3–5 days/week,Not Applicable,No,None,None
+31,Female,4,4,Yes,3,4,14,3–5 days/week,Yes,No,None,None
+28,Female,4,1,Yes,2,1,12,Daily,No,No,None,None
+35,Male,4,4,No,3,3,8,Daily,Not Applicable,Yes,Night,"Stress or anxiety, Strong smells (perfume, smoke, etc.), Sudden weather change"
+24,Female,9,4,Yes,1,2,6,1–2 days/week,No,No,None,None
+24,Male,7,3,Yes,3,5,11,Daily,Not Applicable,No,None,None
+27,Female,5,1,Yes,1,2,5,Daily,Yes,No,None,None
+23,Male,5,4,No,2,1,5,Daily,Not Applicable,Yes,Night,Menstruation (if applicable)
+28,Male,4,1,Yes,2,1,6,Daily,Not Applicable,No,None,None
+32,Male,7,5,No,0,4,7,None,Not Applicable,No,None,None
+32,Female,5,5,Yes,0,4,11,Daily,No,Yes,Afternoon,Physical exertion
+18,Female,4,1,Yes,1,4,2,3–5 days/week,No,Yes,Morning,"Stress or anxiety, Dehydration"
+29,Male,5,1,No,3,1,8,Daily,Not Applicable,Yes,Morning,Alcohol
+28,Female,4,1,Yes,0,4,11,1–2 days/week,Yes,No,None,None
+27,Female,8,5,No,2,2,5,Daily,No,No,None,None
+34,Female,9,3,Yes,2,2,5,Daily,No,No,None,None
+19,Female,9,3,Yes,0,4,13,3–5 days/week,Yes,Yes,None,"Strong smells (perfume, smoke, etc.), Eye strain"
+32,Female,7,4,No,2,4,12,3–5 days/week,No,No,None,None
+31,Male,9,3,No,2,5,2,Daily,Not Applicable,No,None,None
+34,Male,9,5,No,0,4,3,1–2 days/week,Not Applicable,Yes,None,Incorrect posture
+30,Male,7,4,Yes,3,2,3,None,Not Applicable,No,None,None
+32,Female,9,5,Yes,1,2,10,Daily,Yes,No,None,None
+24,Male,4,4,No,0,2,13,1–2 days/week,Not Applicable,No,None,None
+20,Male,4,3,Yes,0,1,14,3–5 days/week,Not Applicable,No,None,None
+31,Female,9,3,Yes,3,1,5,3–5 days/week,Yes,No,None,None
+32,Male,9,2,Yes,2,4,10,Daily,Not Applicable,Yes,Night,Skipping meals
+25,Female,4,2,No,2,1,11,None,No,Yes,None,Lack of sleep
+33,Male,5,5,Yes,1,2,3,1–2 days/week,Not Applicable,No,None,None
+26,Male,5,1,No,3,2,2,None,Not Applicable,No,None,None
+29,Female,5,1,Yes,3,5,4,3–5 days/week,No,No,None,None
+22,Female,5,5,Yes,2,5,12,1–2 days/week,Yes,Yes,Night,"Alcohol, Dehydration, Menstruation (if applicable)"
+30,Male,7,3,No,1,2,12,1–2 days/week,Not Applicable,Yes,Morning,"Sudden weather change, Caffeine withdrawal, Alcohol"
+22,Female,4,3,Yes,2,4,12,3–5 days/week,Yes,No,None,None
+28,Female,9,2,No,3,2,10,3–5 days/week,Yes,Yes,Morning,Skipping meals
+21,Male,6,4,Yes,1,5,8,1–2 days/week,Not Applicable,Yes,Morning,"Stress or anxiety, Sudden weather change"
+29,Male,9,5,Yes,1,4,14,3–5 days/week,Not Applicable,No,None,None
+24,Male,6,1,No,2,3,6,None,Not Applicable,No,None,None
+20,Male,7,4,Yes,0,3,4,None,Not Applicable,Yes,None,"Eye strain, Menstruation (if applicable), Sudden weather change"
+23,Male,7,2,Yes,1,5,14,None,Not Applicable,Yes,Morning,"Strong smells (perfume, smoke, etc.), Stress or anxiety"
+35,Male,4,3,Yes,2,2,8,None,Not Applicable,Yes,Morning,"Stress or anxiety, Menstruation (if applicable), Long screen time"
+34,Male,8,2,No,3,1,7,1–2 days/week,Not Applicable,Yes,Afternoon,"Alcohol, Incorrect posture"
+33,Female,4,1,No,2,5,12,None,Yes,No,None,None
+25,Male,4,1,Yes,2,5,7,3–5 days/week,Not Applicable,Yes,None,"Physical exertion, Lack of sleep, Loud noise"
+29,Female,8,4,Yes,0,5,3,1–2 days/week,Yes,Yes,None,Incorrect posture
+28,Male,9,2,No,0,2,8,Daily,Not Applicable,No,None,None
+34,Male,5,4,No,3,1,7,1–2 days/week,Not Applicable,No,None,None
+20,Male,4,5,No,3,4,4,None,Not Applicable,No,None,None
+30,Male,9,3,Yes,2,1,3,1–2 days/week,Not Applicable,Yes,Night,"Strong smells (perfume, smoke, etc.)"
+31,Female,7,4,Yes,1,4,9,1–2 days/week,No,No,None,None
+18,Female,4,2,Yes,2,3,10,1–2 days/week,No,Yes,Morning,Menstruation (if applicable)
+25,Female,5,3,Yes,2,1,7,1–2 days/week,Yes,No,None,None
+28,Male,9,1,No,1,2,6,Daily,Not Applicable,Yes,Night,"Loud noise, Menstruation (if applicable)"
+32,Male,6,4,No,2,2,13,1–2 days/week,Not Applicable,No,None,None
+20,Female,7,5,No,3,2,2,1–2 days/week,No,No,None,None
+35,Female,9,1,Yes,2,5,7,None,Yes,Yes,Night,Bright or flashing lights
+35,Female,4,3,No,0,1,2,3–5 days/week,No,No,None,None
+20,Female,9,2,Yes,1,1,4,Daily,No,Yes,Night,"Caffeine withdrawal, Physical exertion"
+27,Female,6,1,Yes,3,5,5,Daily,No,Yes,Morning,Bright or flashing lights
+19,Female,6,4,No,3,3,2,None,Yes,Yes,Afternoon,"Alcohol, Caffeine withdrawal"
+26,Male,8,5,Yes,1,4,12,None,Not Applicable,No,None,None
+29,Female,9,1,Yes,0,3,8,3–5 days/week,No,Yes,Night,Bright or flashing lights
+27,Male,6,4,No,2,2,14,None,Not Applicable,No,None,None
+32,Female,4,2,No,2,3,2,3–5 days/week,No,Yes,Night,Dehydration
+31,Female,8,4,Yes,1,1,10,3–5 days/week,No,No,None,None
+31,Male,4,3,Yes,3,1,9,None,Not Applicable,Yes,Afternoon,"Stress or anxiety, Physical exertion, Lack of sleep"
+26,Female,7,4,Yes,1,4,11,1–2 days/week,No,No,None,None
+34,Male,4,4,Yes,2,2,10,1–2 days/week,Not Applicable,No,None,None
+29,Male,4,4,No,0,2,3,Daily,Not Applicable,Yes,None,"Stress or anxiety, Alcohol"
+29,Male,7,4,Yes,3,1,5,1–2 days/week,Not Applicable,No,None,None
+35,Female,6,1,No,0,1,12,1–2 days/week,No,No,None,None
+32,Female,9,1,No,0,5,9,Daily,No,Yes,Morning,Loud noise
+28,Male,6,5,No,3,1,7,3–5 days/week,Not Applicable,No,None,None
+34,Male,9,2,No,0,1,5,3–5 days/week,Not Applicable,Yes,Night,"Skipping meals, Bright or flashing lights, Menstruation (if applicable)"
+33,Female,5,1,Yes,1,5,10,Daily,Yes,Yes,Morning,"Eye strain, Dehydration"
+31,Female,5,5,No,2,5,5,Daily,Yes,No,None,None
+34,Female,8,5,No,2,5,14,1–2 days/week,Yes,No,None,None
+32,Female,4,5,Yes,3,4,5,Daily,Yes,No,None,None
+29,Male,7,2,Yes,0,5,5,1–2 days/week,Not Applicable,No,None,None
+22,Male,7,4,Yes,2,3,4,1–2 days/week,Not Applicable,Yes,Afternoon,"Loud noise, Incorrect posture"
+27,Female,9,4,Yes,0,4,7,None,No,Yes,Afternoon,"Bright or flashing lights, Stress or anxiety"
+19,Male,5,2,Yes,3,1,11,Daily,Not Applicable,No,None,None
+21,Male,7,5,No,2,1,6,1–2 days/week,Not Applicable,No,None,None
+21,Male,5,2,No,1,5,10,1–2 days/week,Not Applicable,No,None,None
+20,Male,8,4,No,1,1,13,Daily,Not Applicable,No,None,None
+30,Male,8,5,Yes,1,5,8,None,Not Applicable,Yes,Afternoon,"Loud noise, Incorrect posture"
+26,Male,7,5,Yes,2,1,8,3–5 days/week,Not Applicable,Yes,Morning,"Lack of sleep, Long screen time"
+27,Male,9,5,Yes,2,3,8,None,Not Applicable,No,None,None
+24,Female,9,4,No,3,2,13,None,Yes,Yes,Night,Lack of sleep
+25,Female,6,5,Yes,1,1,6,None,Yes,Yes,Morning,"Long screen time, Stress or anxiety"
+18,Male,6,3,Yes,1,2,4,1–2 days/week,Not Applicable,No,None,None
+19,Female,4,1,Yes,1,2,8,Daily,No,Yes,Afternoon,"Caffeine withdrawal, Lack of sleep"
+29,Male,7,5,No,3,3,12,3–5 days/week,Not Applicable,No,None,None
+26,Male,7,3,No,2,3,9,None,Not Applicable,Yes,Afternoon,"Lack of sleep, Sudden weather change"
+32,Male,9,1,Yes,1,1,11,None,Not Applicable,No,None,None
+33,Male,9,5,No,1,3,13,1–2 days/week,Not Applicable,No,None,None
+21,Male,6,1,Yes,2,5,11,Daily,Not Applicable,No,None,None
+31,Female,8,3,No,0,1,11,None,No,Yes,Morning,Stress or anxiety
+22,Male,7,3,Yes,2,5,11,None,Not Applicable,Yes,None,"Incorrect posture, Menstruation (if applicable), Physical exertion"
+30,Male,6,5,No,2,3,10,1–2 days/week,Not Applicable,Yes,Morning,Caffeine withdrawal
+26,Male,5,5,Yes,1,1,4,1–2 days/week,Not Applicable,No,None,None
+30,Female,5,5,No,1,2,7,3–5 days/week,No,No,None,None
+33,Female,4,3,No,3,5,14,1–2 days/week,No,No,None,None
+33,Male,7,2,No,3,5,2,1–2 days/week,Not Applicable,Yes,Night,"Strong smells (perfume, smoke, etc.), Loud noise"
+28,Female,4,4,Yes,0,4,8,3–5 days/week,Yes,No,None,None
+28,Female,8,4,No,2,1,11,3–5 days/week,Yes,No,None,None
+30,Male,8,1,No,3,2,6,None,Not Applicable,No,None,None
+33,Female,8,1,No,2,5,5,None,No,No,None,None
+30,Female,4,2,Yes,0,1,2,3–5 days/week,No,Yes,Afternoon,"Long screen time, Physical exertion, Menstruation (if applicable)"
+26,Female,7,2,Yes,1,3,11,1–2 days/week,Yes,No,None,None
+26,Female,4,4,Yes,2,2,7,Daily,No,Yes,None,"Sudden weather change, Incorrect posture"
+28,Male,5,5,No,1,5,12,Daily,Not Applicable,No,None,None
+26,Male,9,5,No,2,4,12,None,Not Applicable,No,None,None
+30,Male,9,5,Yes,1,4,4,None,Not Applicable,No,None,None
+31,Male,4,4,Yes,2,5,6,None,Not Applicable,No,None,None
+28,Male,4,4,Yes,0,2,3,3–5 days/week,Not Applicable,Yes,Morning,"Sudden weather change, Skipping meals, Long screen time"
+18,Male,9,4,Yes,3,4,4,Daily,Not Applicable,No,None,None
+32,Male,6,3,Yes,2,2,6,None,Not Applicable,Yes,Morning,Alcohol
+35,Female,8,4,Yes,1,3,5,None,No,No,None,None
+28,Female,6,2,Yes,0,4,10,1–2 days/week,Yes,No,None,None
+20,Male,9,4,Yes,1,5,9,None,Not Applicable,Yes,None,"Long screen time, Bright or flashing lights"
